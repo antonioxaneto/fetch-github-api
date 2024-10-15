@@ -8,7 +8,7 @@ import { screen } from './objects/screen.js'
 document.getElementById('btn-search').addEventListener('click', () => {
     const userName = document.getElementById('input-search').value
     if(validateEmptyInput(userName)) return
-    getUserProfile(userName)
+    getUserData(userName)
 })
 
 function validateEmptyInput(userName){
