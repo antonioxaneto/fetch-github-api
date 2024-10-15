@@ -1,5 +1,5 @@
 <h1>Projeto fetch github api</h1>
-<p>Projeto de estudo para consumir a API do Github utilizando o Fetch.</p>
+<p>Projeto do curso DevQuest usando fetch no JS para buscar um usuário na API do Github</p>
 
 <h2>Tecnologias usadas</h2>
 <ul>
